@@ -4,7 +4,7 @@ package App::NumberUtilRangeUtils;
 # VERSION
 
 1;
-# ABSTRACT:
+# ABSTRACT: CLIs for Number::Util::Range
 
 =head1 DESCRIPTION
 
